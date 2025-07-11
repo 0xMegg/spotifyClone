@@ -1,4 +1,3 @@
-import React from "react";
 import { Archive, Download, Home, Search } from "lucide-react";
 
 function Navbar() {
